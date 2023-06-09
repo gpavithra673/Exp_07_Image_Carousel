@@ -298,15 +298,13 @@ export default App;
 ## OUTPUT: 
 
 ### SLIDE 1:
-![image](https://github.com/Aashima02/carousel/assets/93427086/3147f552-238f-44c8-ad1c-f9281ea755ea)
-
+![Screenshot (62)](https://github.com/gpavithra673/Exp_07_Image_Carousel/assets/93427264/df82cb05-9865-4a3f-9077-eb2a7885314d)
 
 ### SLIDE 2:
-![image](https://github.com/Aashima02/carousel/assets/93427086/15049eef-8d65-4586-abe1-5f541bf456b4)
-
+![Screenshot (63)](https://github.com/gpavithra673/Exp_07_Image_Carousel/assets/93427264/58d689af-0e8d-4a82-a9df-5af3a9f5bc10)
 
 ### SLIDE 3:
-![image](https://github.com/Aashima02/carousel/assets/93427086/48b753e6-74ce-4b6c-b9f3-fd620d4ae9d8)
+![Screenshot (64)](https://github.com/gpavithra673/Exp_07_Image_Carousel/assets/93427264/5568c973-18c5-4242-aea5-7126952f62d5)
 
 ## RESULT:
 
