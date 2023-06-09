@@ -16,6 +16,7 @@ To create an image carousel using hooks.
 
 ## CODE:
 ### SliderImage.js
+```
 java
 import first from "../assets/first.jpg";
 import second from "../assets/second.jpg";
@@ -39,8 +40,9 @@ export default[
     },
 ];
 
-
+```
 ### Arrows.js
+```
 js
 import React from "react";
 
@@ -59,8 +61,9 @@ function Arrows({prevSlide, nextSlide}){
 
 export default Arrows;
 
-
+```
 ### Dots.js
+```
 java
 import React from "react";
 
@@ -79,9 +82,10 @@ function Dots ({activeIndex, onClicks, sliderImage}){
 }
 
 export default Dots;
-
+```
 
 ### SliderContent.js
+```
 java
 import React from "react";
 
@@ -103,8 +107,9 @@ function SliderContent ({ activeIndex, sliderImage}){
 
 export default SliderContent;
 
-
+```
 ### Slider.js
+```
 java
 import React, {useEffect, useState} from "react";
 import SliderContent from "./SliderContent";
@@ -146,8 +151,9 @@ function Slider(props){
 
 export default Slider;
 
-
+```
 ### slider.css
+```
 java
 * {
     box-sizing: border-box;
@@ -276,8 +282,9 @@ java
     color: black;
   }
 
-
+```
 ### App.js
+```
 java
 import Slider from "./components/Slider";
 
@@ -287,7 +294,7 @@ function App() {
 
 export default App;
 
-
+```
 ## OUTPUT: 
 
 ### SLIDE 1:
